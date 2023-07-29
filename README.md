@@ -1,5 +1,5 @@
 # pretraitement_des_donne
- Ce projet est un traitement de données réalisé dans le cadre de mes cours en Master 1 en Intelligence Artificielle et Big Data.
+ Ce projet est un traitement de données réaliser dans le cadre de mes cours en Master 1 en Intelligence Artificielle et Big Data.
  
 # Objectif
 L'objectif de ce traitement de données est de nettoyer et normaliser les données, effectuer une analyse de données, prévoir les tendances, etc.
